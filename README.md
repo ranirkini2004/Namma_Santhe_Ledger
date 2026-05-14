@@ -1,6 +1,6 @@
-# Namma-Santhe Ledger
+# Namma-Santhe Digital Ledger
 
-Namma-Santhe Ledger is a modern offline-first Android khata app built for small village vendors who need a fast way to manage customer credit (`Udari`) without depending on the internet, cloud services, or paid APIs.
+Namma-Santhe Digital Ledger is a modern offline-first Android khata app built for small village vendors who need a fast way to manage customer credit (`Udari`) without depending on the internet, cloud services, or paid APIs.
 
 ## Highlights
 
